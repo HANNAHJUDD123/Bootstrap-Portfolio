@@ -1,0 +1,278 @@
+body {
+
+	padding: 0;
+	margin: 0;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18px;
+	line-height: 150%;
+	background: url("images/concrete-texture.png");
+}
+
+
+/*navagation or the header*/
+.navagateBar {
+	padding-left: 208px;
+	background-color: white;
+}
+
+.navagate {
+	float: right;
+	margin-right: 160px;
+	height: 66px;
+	padding-top: 17px;
+	background-color: white;
+}
+
+.headingLogo {
+	background-color: #4aaaa5;
+	height: 66px;
+	width: 188px;
+	padding-left: 39px;
+	padding-top: 19px;
+}
+
+/*end of nav. or header*/
+/*=======================================*/
+/*beginngin of about/contact/portfolio*/
+
+.container {
+  width: 1024px;
+  margin: 0 auto;
+  padding-top: 100px
+}
+
+.about {
+	background-color: white;
+	clear: both;
+	width: 573px;
+	float: left;
+	border: 1px solid grey;
+	padding: 14px 20px;
+	margin-bottom: 185px;
+}
+
+.aboutFont {
+	color: #4aaaa5; 
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 25px;
+}
+
+.aboutLine {
+	border-bottom: 2px solid gray;
+}
+
+#aboutheading {
+	font-color: #4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 35px;
+	padding-bottom: 25px;
+	margin-bottom: 25px;
+}
+
+.aboutpic {
+	padding-top: 10px;
+	float: left;
+	margin-right: 6px;
+	margin-bottom: 6px;
+	width: 200px;
+}
+
+.aboutText {
+	width: 507px;
+	border: 0 solid white;
+}
+
+	/*about page*/
+p {
+	font-size: 12px;
+}
+
+/*/*end of ACP*/
+/*========================================*/
+
+/*start of Social Media*/
+
+
+.socialmedia {
+	float: right;
+	background-color: white;
+	padding-top: 15px;
+	padding-bottom: 100px;
+	padding-left: 20px;
+	padding-right: 20px;
+	width: 404px;
+	height: 187px;
+	text-align: center;
+	border: 1px solid grey
+}
+
+.medialine {
+	border-bottom: 2px solid gray;
+	padding-bottom: 21px;
+	margin-bottom: 5px;
+}
+
+.socialPic {
+	width: 100px;
+	height: 100px;
+	padding-top: 10px;
+}
+
+/*end of social media*/
+/*=========================================*/
+
+
+
+/*beginning of portfolio*/
+/*=========================================*/
+
+.portfolioImage {
+	float: left;
+	width: 250px;
+	height: 200px
+	margin-top: 17px;
+}
+
+
+.portfolioImage:nth-of-type(odd) {
+	margin-right: 30px;
+
+}
+
+.addMargin {
+	margin-top: 17px;
+}
+
+.hangman {
+	background-color: #4aaaa5;
+	color: white;
+	padding-left: 5px;
+	margin: 0 0 0 201px;
+	right: 201px;
+	bottom: 75px;
+	font-size: 20px;
+	text-align: center;
+	padding-top: 6px;
+	width: 246px;
+	height: 40px;
+	position: relative;
+	float: left;
+}
+
+.rpg {
+	background-color: #4aaaa5;
+	color: white;
+	padding-left: 5px;
+	margin: 0 0 0 201px;
+	right: 201px;
+	bottom: 75px;
+	font-size: 20px;
+	text-align: center;
+	padding-top: 6px;
+	width: 246px;
+	height: 40px;
+	position: relative;
+}
+
+
+.trivia {
+	background-color: #4aaaa5;
+	color: white;
+	padding-left: 5px;
+	margin: 0 0 0 201px;
+	right: 201px;
+	bottom: 75px;
+	font-size: 20px;
+	text-align: center;
+	padding-top: 6px;
+	width: 246px;
+	height: 40px;
+	position: relative;
+}
+
+.widget {
+	background-color: #4aaaa5;
+	color: white;
+	padding-left: 5px;
+	margin: 0 0 0 201px;
+	right: 201px;
+	bottom: 75px;
+	font-size: 20px;
+	text-align: center;
+	padding-top: 6px;
+	width: 246px;
+	height: 40px;
+	position: relative;
+}
+
+.rock {
+	background-color: #4aaaa5;
+	color: white;
+	padding-left: 5px;
+	margin: 0 0 0 201px;
+	right: 201px;
+	bottom: 75px;
+	font-size: 20px;
+	text-align: center;
+	padding-top: px;
+	width: 246px;
+	height: 40px;
+	position: relative;
+
+}
+
+.addMoreMargin {
+	margin-top: 2px;
+}
+
+/*end of portfolio*/
+/*=========================================*/
+
+
+
+
+
+
+/*footer*/
+
+footer {
+	background-color: #666666;
+	clear: both;
+	text-align: center;
+	font-size: 11px;
+	position: fixed;
+	bottom: 0;
+	padding-top: 25px;
+	padding-bottom: 10px;
+	width: 100%;
+	height: 62px;
+	color: gray;
+	border-top: thick solid #4aaaa5;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
